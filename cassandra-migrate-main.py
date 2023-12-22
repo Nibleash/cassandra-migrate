@@ -1,0 +1,1 @@
+from cassandra_migrate.main import main
